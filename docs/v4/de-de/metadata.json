@@ -1,0 +1,122 @@
+{
+  "Technologies": [
+    {
+      "Id": "4D22FF3B-41AD-42B2-B3F3-8CC045FD5D77",
+      "Name": "Website",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "80D08B5A-8D76-40E3-B274-CE8288C1C233",
+      "Name": "Allgemeines",
+      "Image": "images/categories/faq-allgemein.png",
+      "TechnologyId": "4D22FF3B-41AD-42B2-B3F3-8CC045FD5D77",
+      "SubjectId": "",
+      "Source": "Cordes & Graefe KG",
+      "SubCategories": []
+    },
+    {
+      "Id": "E37C6FF5-37DE-4757-AFDC-2955277F5F4E",
+      "Name": "Häuser",
+      "Image": "images/categories/faq-gruppenseiten.png",
+      "TechnologyId": "4D22FF3B-41AD-42B2-B3F3-8CC045FD5D77",
+      "SubjectId": "",
+      "Source": "Cordes & Graefe KG",
+      "SubCategories": []
+    },
+    {
+      "Id": "6385C11E-D40C-4CE3-9C01-D0573B41DAC6",
+      "Name": "ELEMENTS",
+      "Image": "images/categories/faq-elements.png",
+      "TechnologyId": "4D22FF3B-41AD-42B2-B3F3-8CC045FD5D77",
+      "SubjectId": "",
+      "Source": "Cordes & Graefe KG",
+      "SubCategories": []
+    },
+    {
+      "Id": "2EBBA021-DF56-4189-AB1A-FEAF0450275A",
+      "Name": "ONLINE PLUS",
+      "Image": "images/categories/faq-online-plus.png",
+      "TechnologyId": "4D22FF3B-41AD-42B2-B3F3-8CC045FD5D77",
+      "SubjectId": "",
+      "Source": "Cordes & Graefe KG",
+      "SubCategories": []
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "ACCD5E19-9ECF-4540-B87E-49CF4A11E450",
+      "Name": "Administrator"
+    },
+    {
+      "Id": "38267D39-5485-48A2-98AB-D5F820C48B78",
+      "Name": "Endbenutzer"
+    },
+    {
+      "Id": "2C6954C5-1EE6-4380-99B2-499793F1B4E3",
+      "Name": "Inhalts-Editor"
+    },
+    {
+      "Id": "A6E1583D-62DA-4937-B150-24363E5251E4",
+      "Name": "Content Manager"
+    },
+    {
+      "Id": "5645F1AD-0A3F-4BA9-BC34-98DD866ADFD4",
+      "Name": "Alle"
+    }
+  ],
+  "Sources": [
+    "Cordes & Graefe KG"
+  ],
+  "Levels": [
+    {
+      "Id": "31181D19-1DA1-4814-9218-21675D2FAB44",
+      "Name": "Anfänger"
+    },
+    {
+      "Id": "D9DE75ED-C8C7-4214-8A28-508F4C15C218",
+      "Name": "Fortgeschrittene Benutzer"
+    },
+    {
+      "Id": "B04B9DDD-CADC-4F0D-B525-6F732BA77717",
+      "Name": "Erfahrene Benutzer"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "3FB14C46-1A8F-4AAD-8008-21AF37EC97D4",
+      "Name": "Neu"
+    },
+    {
+      "Id": "857248A8-D6DE-4BB2-A746-C262FCB00D69",
+      "Name": "Aktualisiert"
+    },
+    {
+      "Id": "8C9737CE-87A2-4A10-A243-243ECE5595E1",
+      "Name": "Wird eingestellt"
+    },
+    {
+      "Id": "25B0E612-C755-4133-AC1E-00D312ADF65D",
+      "Name": "Eingestellt"
+    },
+    {
+      "Id": "1EB59EF3-E34E-4F44-9AFE-60AA198D911B",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {
+    "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
+  },
+  "Version": {
+    "Manifest": "v4",
+    "ManifestMinWebPart": "4.0.0",
+    "CurrentWebPart": "4.0.0",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ]
+}
